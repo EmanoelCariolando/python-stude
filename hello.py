@@ -1,9 +1,21 @@
-x = 18
-if 18 < x < 90: 
-  print("Maior De Idade")
+horas = int(input('digite'))
 
-elif x >= 90: 
- print("vc chapou dmais pae")
 
-else:
-  print("vc é dmenor")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
